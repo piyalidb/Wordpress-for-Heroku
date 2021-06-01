@@ -21,7 +21,7 @@ define('LOGGED_IN_SALT',   $_ENV["XLOGGED_IN_SALT"]);
 define('NONCE_SALT',       $_ENV["XNONCE_SALT"]);
 
 
-$table_prefix  = 'wp_';
+$table_prefix  = ;
 
 
 define('WPLANG', 'en');
